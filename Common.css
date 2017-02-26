@@ -1,0 +1,152 @@
+a:link{text-decoration:none;
+
+}
+
+a:visited{text-decoration:none;
+color: #D9D9D9;
+}
+
+a:hover{text-decoration:none;
+color: #D9D9D9;
+}
+
+#home{color:#C9DA92}
+#home:hover{color:white}
+
+#aboutUs{color:#BFDBAF}
+#aboutUs:hover{color:white}
+
+#speakers{color:#5EF0F7}
+#speakers:hover{color:white}
+
+#sponsorships{color:#4FCEFF}
+#sponsorships:hover{color:white}
+
+#registration{color:#0BD0D9}
+#registration:hover{color:white}
+
+#importantDates{color:#00B0F0}
+#importantDates:hover{color:white}
+
+#callForPapers{color:#2191C9}
+#callForPapers:hover{color:white}
+
+
+
+tr {font-family: orator std;
+    font-size:20px;
+	padding: 0px;
+	margin:0px;}
+	
+#SRCASW{position:fixed;
+top:0px;
+left:0px;
+background-color:#004E6D;
+opacity: 0.999;
+padding-top:23px;
+padding-bottom:23px;
+padding-left:20px;
+padding-right:20px;
+text-align:center;
+font-family: orator std;
+font-size:20px;
+color:#D9D9D9;
+width:222px;
+}
+
+#navBar{position:fixed;
+top:67px;
+left:0px;
+background-color:#0D0D0D;
+opacity: 0.9;
+height:100%;
+}
+
+#dots{position:fixed;
+top:90%;
+left:80px;
+}
+
+#circle
+{
+  position:absolute;
+  left:91%;
+  top:0%;
+}
+
+#mainContent
+{
+  position:absolute;
+  top:0px;
+  left:25%;
+  right:5%;
+  text-align: center;
+ }
+h1
+{ font-family: 'Slabo 13px', serif;
+  font-size: 50px;
+  color:#F2F2F2;}
+  
+h2
+{ font-family: rockwell;
+  font-size: 23px;
+  color:#BFBFBF;}
+  
+#bodyText
+{ font-family: 'calibri light', calibri;
+font-size: 25px;
+text-align: justify;
+text-indent: 50px;
+}
+
+#footer
+{ position:absolute;
+top:1800px;
+left:20%;
+width:80%;
+height:250px;
+background-color: #004E6D;
+font-size: 20px;
+font-family: calibri;
+}
+
+#contactUs
+{
+   position:absolute;
+   top:20px;
+     
+  padding-top: 15px;
+  padding-left: 60px;
+  padding-right:30px;
+  font-size: 20px;
+  color:#94F7DC;
+}
+
+#proceedings
+{
+  position:absolute;
+   top:20px;
+   left: 35%;
+  padding-top: 15px;
+  padding-left: 60px;
+  padding-right:30px;
+  font-size: 20px;
+  color:#94F7DC;
+}
+
+#organization
+{position:absolute;
+   top:20px;
+   left:70%;
+  padding-top: 15px;
+  padding-left: 60px;
+  padding-right:30px;
+  font-size: 20px;
+  color:#94F7DC;
+}
+
+span
+{
+color: #0C9B74;
+font-weight: bold;
+} 
